@@ -1,0 +1,71 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="Assets/2D Physics Puzzle Kit/Scripts/C#/Managers/GUIManager.cs" Line="11" Column="4" />
+      <File FileName="Assets/2D Physics Puzzle Kit/Scripts/C#/Managers/InputManager.cs" Line="5" Column="3" />
+      <File FileName="Assets/2D Physics Puzzle Kit/Scripts/C#/Managers/LevelManager.cs" Line="12" Column="4" />
+      <File FileName="Assets/2D Physics Puzzle Kit/Scripts/C#/Objects/PhysicsObject.cs" Line="11" Column="4" />
+      <File FileName="Assets/2D Physics Puzzle Kit/Scripts/C#/Managers/ToolboxManager.cs" Line="11" Column="4" />
+      <File FileName="Assets/2D Physics Puzzle Kit/Scripts/C#/Managers/GoalManager.cs" Line="11" Column="4" />
+      <File FileName="Assets/2D Physics Puzzle Kit/Scripts/C#/Managers/MainMenuManager.cs" Line="11" Column="4" />
+      <File FileName="Assets/2D Physics Puzzle Kit/Scripts/C#/Managers/ResolutionManager.cs" Line="12" Column="4" />
+      <File FileName="Assets/2D Physics Puzzle Kit/Scripts/C#/Objects/ObjectBase.cs" Line="11" Column="4" />
+      <File FileName="Assets/2D Physics Puzzle Kit/Scripts/C#/Objects/ObjBalloon.cs" Line="12" Column="4" />
+      <File FileName="Assets/2D Physics Puzzle Kit/Scripts/C#/Objects/ObjRcCar.cs" Line="11" Column="4" />
+      <File FileName="Assets/2D Physics Puzzle Kit/Scripts/C#/Objects/ObjRcController.cs" Line="12" Column="4" />
+      <File FileName="Assets/2D Physics Puzzle Kit/Scripts/C#/Objects/ObjSmallBall.cs" Line="43" Column="1" />
+      <File FileName="Assets/2D Physics Puzzle Kit/Scripts/C#/Objects/ObjStar.cs" Line="11" Column="4" />
+      <File FileName="Assets/2D Physics Puzzle Kit/Scripts/C#/Toolbox/BackPackItemType.cs" Line="11" Column="4" />
+      <File FileName="Assets/2D Physics Puzzle Kit/Scripts/C#/LevelSelectButton.cs" Line="113" Column="1" />
+      <File FileName="Assets/2D Physics Puzzle Kit/Scripts/C#/SetSortingLayer.cs" Line="26" Column="1" />
+      <File FileName="Assets/2D Physics Puzzle Kit/Scripts/C#/TriggerRegisterer.cs" Line="56" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Assembly-CSharp" expanded="True">
+            <Node name="2D Physics Puzzle Kit" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="C#" expanded="True">
+                  <Node name="Managers" expanded="True">
+                    <Node name="FeedbackManager.cs" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="Shaders" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>station.FindChildItem("BtnPurchaseStation")</Value>
+          <Value>station.FindChildItem("BtnCraft")</Value>
+          <Value>(int)manager.pTimer / 60.0f)</Value>
+          <Value>item.FindChildItem("AnimalName");</Value>
+          <Value>mAnimalPen.GetAnimals()</Value>
+          <Value>mergedRewards.ToArray()</Value>
+          <Value>missions[1].Rewards.ToArray()</Value>
+          <Value>missions.ToArray()</Value>
+          <Value>mission</Value>
+          <Value>inObject.MissionsCompleted[0].Rewards</Value>
+          <Value>mSelectedGamesWidgetList[1]</Value>
+          <Value>mSelectedGamesWidgetList[0]</Value>
+          <Value>mSelectedGamesWidgetList[2]</Value>
+          <Value>mSelectedGamesWidgetList[3]</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Volumes/DWITEE_WD_MAC/Documents/SourceCode/2dGame/2DGame/Assets/2D Physics Puzzle Kit/Scripts/C#/Managers/ToolboxManager.cs" line="213" />
+      <Breakpoint file="/Volumes/DWITEE_WD_MAC/Documents/SourceCode/2dGame/2DGame/Assets/2D Physics Puzzle Kit/Scripts/C#/Managers/ToolboxManager.cs" line="70" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
