@@ -5,11 +5,3 @@ Cmd: preprocess
   insize=134 outsize=134 ok=1
 Cmd: preprocess
   insize=556 outsize=982 ok=1
-Cmd: compileSnippet
-  api=0 type=0 insize=4246 outsize=919 kw=DIRECTIONAL LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
-Cmd: compileSnippet
-  api=0 type=1 insize=4246 outsize=378 kw=DIRECTIONAL LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
-Cmd: compileSnippet
-  api=0 type=0 insize=2267 outsize=817 kw=POINT ok=1
-Cmd: compileSnippet
-  api=0 type=1 insize=2267 outsize=549 kw=POINT ok=1

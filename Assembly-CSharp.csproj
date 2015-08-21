@@ -46,27 +46,27 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\2D Physics Puzzle Kit\Scripts\C#\LevelSelectButton.cs" />
-     <Compile Include="Assets\2D Physics Puzzle Kit\Scripts\C#\Managers\GUIManager.cs" />
-     <Compile Include="Assets\2D Physics Puzzle Kit\Scripts\C#\Managers\GoalManager.cs" />
-     <Compile Include="Assets\2D Physics Puzzle Kit\Scripts\C#\Managers\InputManager.cs" />
-     <Compile Include="Assets\2D Physics Puzzle Kit\Scripts\C#\Managers\LevelManager.cs" />
-     <Compile Include="Assets\2D Physics Puzzle Kit\Scripts\C#\Managers\MainMenuManager.cs" />
-     <Compile Include="Assets\2D Physics Puzzle Kit\Scripts\C#\Managers\ResolutionManager.cs" />
-     <Compile Include="Assets\2D Physics Puzzle Kit\Scripts\C#\Managers\ToolboxManager.cs" />
-     <Compile Include="Assets\2D Physics Puzzle Kit\Scripts\C#\Managers\TransformObjectManager.cs" />
-     <Compile Include="Assets\2D Physics Puzzle Kit\Scripts\C#\Objects\ObjBalloon.cs" />
-     <Compile Include="Assets\2D Physics Puzzle Kit\Scripts\C#\Objects\ObjRcCar.cs" />
-     <Compile Include="Assets\2D Physics Puzzle Kit\Scripts\C#\Objects\ObjRcController.cs" />
-     <Compile Include="Assets\2D Physics Puzzle Kit\Scripts\C#\Objects\ObjSmallBall.cs" />
-     <Compile Include="Assets\2D Physics Puzzle Kit\Scripts\C#\Objects\ObjStar.cs" />
-     <Compile Include="Assets\2D Physics Puzzle Kit\Scripts\C#\Objects\ObjectBase.cs" />
-     <Compile Include="Assets\2D Physics Puzzle Kit\Scripts\C#\Objects\PhysicsObject.cs" />
-     <Compile Include="Assets\2D Physics Puzzle Kit\Scripts\C#\SetSortingLayer.cs" />
-     <Compile Include="Assets\2D Physics Puzzle Kit\Scripts\C#\Toolbox\BackPackItemType.cs" />
-     <Compile Include="Assets\2D Physics Puzzle Kit\Scripts\C#\TriggerRegisterer.cs" />
-     <None Include="Assets\2D Physics Puzzle Kit\Shaders\Transparent-DiffuseDS.shader" />
-     <None Include="Assets\2D Physics Puzzle Kit\Shaders\Depth Mask.shader" />
+     <Compile Include="Assets\2D collision game Skeleton\Scripts\C#\LevelSelectButton.cs" />
+     <Compile Include="Assets\2D collision game Skeleton\Scripts\C#\Managers\GUIManager.cs" />
+     <Compile Include="Assets\2D collision game Skeleton\Scripts\C#\Managers\GoalManager.cs" />
+     <Compile Include="Assets\2D collision game Skeleton\Scripts\C#\Managers\InputManager.cs" />
+     <Compile Include="Assets\2D collision game Skeleton\Scripts\C#\Managers\LevelManager.cs" />
+     <Compile Include="Assets\2D collision game Skeleton\Scripts\C#\Managers\MainMenuManager.cs" />
+     <Compile Include="Assets\2D collision game Skeleton\Scripts\C#\Managers\ResolutionManager.cs" />
+     <Compile Include="Assets\2D collision game Skeleton\Scripts\C#\Managers\ToolboxManager.cs" />
+     <Compile Include="Assets\2D collision game Skeleton\Scripts\C#\Managers\TransformObjectManager.cs" />
+     <Compile Include="Assets\2D collision game Skeleton\Scripts\C#\Objects\ObjBalloon.cs" />
+     <Compile Include="Assets\2D collision game Skeleton\Scripts\C#\Objects\ObjRcCar.cs" />
+     <Compile Include="Assets\2D collision game Skeleton\Scripts\C#\Objects\ObjRcController.cs" />
+     <Compile Include="Assets\2D collision game Skeleton\Scripts\C#\Objects\ObjSmallBall.cs" />
+     <Compile Include="Assets\2D collision game Skeleton\Scripts\C#\Objects\ObjStar.cs" />
+     <Compile Include="Assets\2D collision game Skeleton\Scripts\C#\Objects\ObjectBase.cs" />
+     <Compile Include="Assets\2D collision game Skeleton\Scripts\C#\Objects\PhysicsObject.cs" />
+     <Compile Include="Assets\2D collision game Skeleton\Scripts\C#\SetSortingLayer.cs" />
+     <Compile Include="Assets\2D collision game Skeleton\Scripts\C#\Toolbox\BackPackItemType.cs" />
+     <Compile Include="Assets\2D collision game Skeleton\Scripts\C#\TriggerRegisterer.cs" />
+     <None Include="Assets\2D collision game Skeleton\Shaders\Transparent-DiffuseDS.shader" />
+     <None Include="Assets\2D collision game Skeleton\Shaders\Depth Mask.shader" />
  <Reference Include="UnityEngine.UI">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/4.6.6/UnityEngine.UI.dll</HintPath>
  </Reference>
